@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/ksBOmc5.jpg" alt="ARAFAT HOSHEN ZIHAD's Profile Image">
-</div>
-
 # 👋 Hi, I'm ARAFAT HOSHEN ZIHAD!
 
 I'm a recent high school graduate with a passion for technology and a diploma in Computer Science from Brahmanbaria Polytechnic Institute. I take pride in my creative computer application skills and proficiency in using Microsoft Office Word, Excel, PowerPoint, and various editing tools on Microsoft Windows.
